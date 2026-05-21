@@ -11,10 +11,11 @@
 ---
 
 ## 👨‍💻 About Me
- 
+
 <table>
   <tr>
     <td valign="top" width="50%">
+
 ### 🪪 Profile
 | | |
 |---|---|
@@ -23,11 +24,46 @@
 | 🏢 **Company** | FQMS, Sialkot |
 | 📍 **Location** | Pakistan 🇵🇰 |
 | 📧 **Email** | umairehsan59@gmail.com |
- 
+
+  </td>
+  <td valign="top" width="50%">
+
+### 📡 Status
+| | |
+|---|---|
+| 🔭 **Currently** | Shipping ERP for 5,000+ users |
+| 🤖 **Building** | AI agents & MCP chatbots |
+| 🌱 **Learning** | LangGraph · RAG · Agentic AI |
+| 💬 **Ask me about** | Django · React · LLM integrations |
+| 🌍 **Open to** | Remote opportunities worldwide |
+
+  </td>
+  </tr>
+</table>
+
+<div align="center">
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/ERP%20Daily%20Users-5%2C000%2B-blue?style=for-the-badge"/>
     </td>
-    <td valign="top" width="50%">
-    </table>
- ---
+    <td align="center">
+      <img src="https://img.shields.io/badge/Admin%20Tasks%20Automated-25%25-green?style=for-the-badge"/>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Support%20Workload%20Cut-70%25-orange?style=for-the-badge"/>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Enterprises%20Served-50%2B-red?style=for-the-badge"/>
+    </td>
+  </tr>
+</table>
+
+</div>
+
+---
+
 ### 🛠️ Tech Stack
 
 <div align="center">
@@ -106,8 +142,8 @@
 <div align="center">
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:umairehsan59@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://pk.linkedin.com/in/umair-ehsan-dev))
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)]([YOUR_PORTFOLIO_URL](https://umairehsan6.netlify.app/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://pk.linkedin.com/in/umair-ehsan-dev)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://umairehsan6.netlify.app/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/umairehsan6)
 
 </div>
