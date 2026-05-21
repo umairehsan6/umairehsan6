@@ -10,21 +10,24 @@
 
 ---
 
-### 👨‍💻 About Me
-
-```python
-class UmairEhsan:
-    def __init__(self):
-        self.role       = "Associate Software Engineer"
-        self.location   = "Sialkot, Pakistan 🇵🇰"
-        self.stack      = ["Django", "React", "FastAPI", "LangChain" , "LangGraph" , "RAG"]
-        self.currently  = "Shipping ERP used by 5,000+ daily users"
-        self.building   = "AI agents & MCP-powered chatbots"
-        self.reach_me   = "umairehsan59@gmail.com"
-```
-
----
-
+## 👨‍💻 About Me
+ 
+<table>
+  <tr>
+    <td valign="top" width="50%">
+### 🪪 Profile
+| | |
+|---|---|
+| 👤 **Name** | Umair Ehsan |
+| 💼 **Role** | Associate Software Engineer |
+| 🏢 **Company** | FQMS, Sialkot |
+| 📍 **Location** | Pakistan 🇵🇰 |
+| 📧 **Email** | umairehsan59@gmail.com |
+ 
+    </td>
+    <td valign="top" width="50%">
+    </table>
+ ---
 ### 🛠️ Tech Stack
 
 <div align="center">
