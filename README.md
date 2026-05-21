@@ -15,9 +15,9 @@
 ```python
 class UmairEhsan:
     def __init__(self):
-        self.role       = "Associate Software Engineer @ FQMS"
+        self.role       = "Associate Software Engineer"
         self.location   = "Sialkot, Pakistan 🇵🇰"
-        self.stack      = ["Django", "React", "FastAPI", "LangChain"]
+        self.stack      = ["Django", "React", "FastAPI", "LangChain" , "LangGraph" , "RAG"]
         self.currently  = "Shipping ERP used by 5,000+ daily users"
         self.building   = "AI agents & MCP-powered chatbots"
         self.reach_me   = "umairehsan59@gmail.com"
